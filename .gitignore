@@ -1,3 +1,7 @@
 .ipynb*
 .virtual_documents
 *dataset
+*.png
+*.jpeg
+*.jpg
+*.mp4
